@@ -10,9 +10,9 @@
 
 ---
 
-## ⬇️ دانلود فایل کانفیگ
+## ⬇️ دانلود فایل کانفیگ اتصال
 
-[⬇️ دانلود melishekan-nv_01.npv](https://github.com/sinavm/melishekan/releases/download/v1.0/melishekan-nv_01.npv)
+[⬇️ دانلود مستقیم فایل melishekan-nv_01.npv](https://github.com/sinavm/melishekan/releases/download/v1.0/melishekan-nv_01.npv)
 
 ---
 
